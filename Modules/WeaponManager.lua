@@ -1,0 +1,7 @@
+local WeaponManager = {}
+
+
+
+
+
+return WeaponManager
